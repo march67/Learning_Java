@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("J'aime le café");
-        System.out.println("Surtout avec du sucre");
+        System.out.print("Surtout avec du sucre\n");
+        System.out.print("C'est encore mieux avec du lait !");
     }
 }
