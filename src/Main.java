@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("J'aime le café");
         System.out.print("Surtout avec du sucre\n");
-        System.out.print("C'est encore mieux avec du lait !");
+        System.out.println("C'est encore mieux avec du lait !\n");
+        System.out.println("\t2 carrés de sucre et 20ml de lait");
     }
 }
