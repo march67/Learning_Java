@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.print("J'aime le café");
+        System.out.println("J'aime le café");
+        System.out.println("Surtout avec du sucre");
     }
 }
