@@ -14,13 +14,18 @@ public class Main {
 
 
         // affichage d'une variable dans une chaîne de caractères
-        System.out.println("Voici le résultat de ma variable :" + x );
+        /* System.out.println("Voici le résultat de ma variable :" + x );
         System.out.println(symbol);
-        System.out.println(name);
+        System.out.println(name); */
 
 
+        // échange de deux variables
+        String y = "eau";
+        String z = "café";
 
-
+        System.out.println("variable y : " + y);
+        System.out.println("variable z : " + z);
+        
 
 
     }

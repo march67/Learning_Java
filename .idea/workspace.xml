@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="Affichage de ma variable à l'intérieur d'une chaîne de caractère">
+    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="Affichage d'un symbole, et d'un string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681542949981</updated>
-      <workItem from="1681542951037" duration="1351000" />
+      <workItem from="1681542951037" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="New project : deuxième partie">
       <created>1681543076489</created>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681543464625</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Affichage d'un symbole, et d'un string">
+      <created>1681544341725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681544341725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +75,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project : deuxième partie" />
     <MESSAGE value="Affichage de ma variable à l'intérieur d'une chaîne de caractère" />
-    <option name="LAST_COMMIT_MESSAGE" value="Affichage de ma variable à l'intérieur d'une chaîne de caractère" />
+    <MESSAGE value="Affichage d'un symbole, et d'un string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Affichage d'un symbole, et d'un string" />
   </component>
 </project>
