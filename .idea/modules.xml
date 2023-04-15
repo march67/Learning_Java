@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Apprentissage_debutant1.iml" filepath="$PROJECT_DIR$/Java_Apprentissage_debutant1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_1/Java_learning_1.iml" filepath="$PROJECT_DIR$/Java_learning_1/Java_learning_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_2/Java_learning_2.iml" filepath="$PROJECT_DIR$/Java_learning_2/Java_learning_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_3/Java_learning_3.iml" filepath="$PROJECT_DIR$/Java_learning_3/Java_learning_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_4/Java_learning_4.iml" filepath="$PROJECT_DIR$/Java_learning_4/Java_learning_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_5/Java_learning_5.iml" filepath="$PROJECT_DIR$/Java_learning_5/Java_learning_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage1.iml" filepath="$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_4_Operandes_Operateurs/Java_learning_4_Operandes_Operateurs.iml" filepath="$PROJECT_DIR$/Java_learning_4_Operandes_Operateurs/Java_learning_4_Operandes_Operateurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_5_Expressions/Java_learning_5_Expressions.iml" filepath="$PROJECT_DIR$/Java_learning_5_Expressions/Java_learning_5_Expressions.iml" />
     </modules>
   </component>
 </project>
