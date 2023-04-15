@@ -22,10 +22,15 @@ public class Main {
         // échange de deux variables
         String y = "eau";
         String z = "café";
+        String stockage; // stockage temporaire pour permettre un échange de valeur
+
+        stockage = y;
+        y = z;
+        z = stockage;
 
         System.out.println("variable y : " + y);
         System.out.println("variable z : " + z);
-        
+
 
 
     }

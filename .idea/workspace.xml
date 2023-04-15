@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="Affichage d'un symbole, et d'un string">
+    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="Initialisation des deux variables à échanger">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681542949981</updated>
-      <workItem from="1681542951037" duration="1724000" />
+      <workItem from="1681542951037" duration="2428000" />
     </task>
     <task id="LOCAL-00001" summary="New project : deuxième partie">
       <created>1681543076489</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681544341725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initialisation des deux variables à échanger">
+      <created>1681544732270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681544732270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +83,7 @@
     <MESSAGE value="New project : deuxième partie" />
     <MESSAGE value="Affichage de ma variable à l'intérieur d'une chaîne de caractère" />
     <MESSAGE value="Affichage d'un symbole, et d'un string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Affichage d'un symbole, et d'un string" />
+    <MESSAGE value="Initialisation des deux variables à échanger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialisation des deux variables à échanger" />
   </component>
 </project>
