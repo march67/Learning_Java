@@ -12,7 +12,7 @@ public class Main {
         boolean resultat = nom.equals("David"); // Pour ignorer la casse :  nom.equalsIgnoreCase("David");
         System.out.println(resultat); // retourne true
 
-        int longueurResultat = nom.length();
+        int longueurResultat = nom.length(); // donne la longueur de la variable sous un entier
         System.out.println(longueurResultat); // retourne 5
 
         char charResultat = nom.charAt(0); // affiche le caractère à l'indexe indiqué en argument, commence à 0
