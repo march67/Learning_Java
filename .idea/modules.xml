@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_Apprentissage_debutant1.iml" filepath="$PROJECT_DIR$/Java_Apprentissage_debutant1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage1.iml" filepath="$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_4_Operandes_Operateurs/Java_learning_4_Operandes_Operateurs.iml" filepath="$PROJECT_DIR$/Java_learning_4_Operandes_Operateurs/Java_learning_4_Operandes_Operateurs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_5_Expressions/Java_learning_5_Expressions.iml" filepath="$PROJECT_DIR$/Java_learning_5_Expressions/Java_learning_5_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Apprentissage_debutant.iml" filepath="$PROJECT_DIR$/Java_Apprentissage_debutant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage.iml" filepath="$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_4_Expressions/Java_learning_4_Expressions.iml" filepath="$PROJECT_DIR$/Java_learning_4_Expressions/Java_learning_4_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_5_GUI_Intro/Java_learning_5_GUI_Intro.iml" filepath="$PROJECT_DIR$/Java_learning_5_GUI_Intro/Java_learning_5_GUI_Intro.iml" />
     </modules>
   </component>
 </project>
