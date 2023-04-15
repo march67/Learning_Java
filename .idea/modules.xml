@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Apprentissage_debutant.iml" filepath="$PROJECT_DIR$/Java_Apprentissage_debutant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_10_operateurs_logiques/Java_learning_10_operateurs_logiques.iml" filepath="$PROJECT_DIR$/Java_learning_10_operateurs_logiques/Java_learning_10_operateurs_logiques.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage.iml" filepath="$PROJECT_DIR$/Java_learning_1_Affichage/Java_learning_1_Affichage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" />
