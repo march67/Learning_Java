@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="New project : deuxième partie">
+    <list default="true" id="53a56ff7-8588-4585-a1b0-d0c3f40a9565" name="Changes" comment="Affichage de ma variable à l'intérieur d'une chaîne de caractère">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681542949981</updated>
-      <workItem from="1681542951037" duration="477000" />
+      <workItem from="1681542951037" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="New project : deuxième partie">
       <created>1681543076489</created>
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681543076489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Affichage de ma variable à l'intérieur d'une chaîne de caractère">
+      <created>1681543464625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681543464625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +67,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project : deuxième partie" />
-    <option name="LAST_COMMIT_MESSAGE" value="New project : deuxième partie" />
+    <MESSAGE value="Affichage de ma variable à l'intérieur d'une chaîne de caractère" />
+    <option name="LAST_COMMIT_MESSAGE" value="Affichage de ma variable à l'intérieur d'une chaîne de caractère" />
   </component>
 </project>
