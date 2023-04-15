@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        // for-each => technique transverse pour itinérer par tous les éléments du tableau / collection
+        // for-each => technique transverse pour itérer par tous les éléments du tableau / collection
         // avantages : moins d'étapes, plus facilement lisible
         // désavantage : moins flexible
 
