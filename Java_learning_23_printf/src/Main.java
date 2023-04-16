@@ -16,7 +16,7 @@ public class Main {
         int monInt = 50;
         double monDouble = 15000.7;
 
-        // "%[?]" => conversion de caractère / [conversion-character]
+        // "%[?]" => convertisseur de caractère / [conversion-character]
         System.out.printf("%b", monBooleen); // boléen
         System.out.printf("%c", monChar); // character
         System.out.printf("%s", monString); // string
@@ -40,20 +40,20 @@ public class Main {
         // - : left-justify
         // + : output un signe plus ( + ) ou un signe moins ( - ) pour la valeur numérique
         // 0 : la valeur numérique est rembourrée de zéros
-        // , : virgule séparateur de groupe si les nombres > 1000
+        // , : virgule séparateur de groupe si les nombres > 1000, exemple 1000000000 => 1 000 000 000
 
 
         // left-justify à l'aide du right justify et l'ajout du flag ( - )
         System.out.printf("J'ai tant d'argent : %-20f", monDouble);
 
         System.out.println(); // améliore la lisibilité
-        System.out.printf("J'ai tant d'argent : %+f", monDouble);
+        System.out.printf("J'ai tant d'argent : %+f", monDouble); // +15000,700000
 
         System.out.println(); // améliore la lisibilité
-        System.out.printf("J'ai tant d'argent : %020f", monDouble);
+        System.out.printf("J'ai tant d'argent : %020f", monDouble); // 0000000015000,700000
 
         System.out.println(); // améliore la lisibilité
-        System.out.printf("J'ai tant d'argent : %,f", monDouble);
+        System.out.printf("J'ai tant d'argent : %,f", monDouble); // 15 000,700000
 
 
     }
