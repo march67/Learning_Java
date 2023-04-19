@@ -1,5 +1,5 @@
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         // array = tableau => structure de données statique, taille fixe, éléments de même type
@@ -23,17 +23,20 @@ public class main {
 
         // tableau d'objets / array of objects -- ici Aliment
         Aliment[] refrigerateur = new Aliment[3]; // array d'objets Aliment
+        // !!!! il ne s'agit pas d'une instanciation !!! pas accès aux membresd
+
+        // instanciation de Aliment
         Aliment aliment1 = new Aliment("pizza");
         Aliment aliment2 = new Aliment("hamburger");
         Aliment aliment3 = new Aliment("hotdog");
 
-        // ajout d'élément à un tableau / array (statique)
+        // ajout d'élément / d'instance ici, à un tableau / array (statique)
         refrigerateur[0] = aliment1;
         refrigerateur[1] = aliment2;
         refrigerateur[2] = aliment3;
 
         System.out.println(refrigerateur[0]); // retourne Aliment@7b23ec81
-        // @7b23ec81 = addresse de là où l'objet est stocké dans la mémoire
+        // Aliment@7b23ec81 = addresse de là où l'objet est stocké dans la mémoire
 
         // pour accéder uniquement au membre voulu
         // il faut accéder au membre par son nom de déclaration dans la classe
