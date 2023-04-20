@@ -24,16 +24,17 @@
       <module fileurl="file://$PROJECT_DIR$/Java_learning_27_toString-method/Java_learning_27_toString-method.iml" filepath="$PROJECT_DIR$/Java_learning_27_toString-method/Java_learning_27_toString-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_28_array-of-objects/Java_learning_28_array-of-objects.iml" filepath="$PROJECT_DIR$/Java_learning_28_array-of-objects/Java_learning_28_array-of-objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_29_object-passing/Java_learning_29_object-passing.iml" filepath="$PROJECT_DIR$/Java_learning_29_object-passing/Java_learning_29_object-passing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" filepath="$PROJECT_DIR$/Java_learning_2_Variable/Java_learning_2_Variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_30_static-keyword/Java_learning_30_static-keyword.iml" filepath="$PROJECT_DIR$/Java_learning_30_static-keyword/Java_learning_30_static-keyword.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_31_inheritance/Java_learning_31_inheritance.iml" filepath="$PROJECT_DIR$/Java_learning_31_inheritance/Java_learning_31_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_32_methods-overriding/Java_learning_32_methods-overriding.iml" filepath="$PROJECT_DIR$/Java_learning_32_methods-overriding/Java_learning_32_methods-overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" filepath="$PROJECT_DIR$/Java_learning_3_Saisie_Scanner/Java_learning_3_Saisie_Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_4_Expressions/Java_learning_4_Expressions.iml" filepath="$PROJECT_DIR$/Java_learning_4_Expressions/Java_learning_4_Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_5_GUI_Intro/Java_learning_5_GUI_Intro.iml" filepath="$PROJECT_DIR$/Java_learning_5_GUI_Intro/Java_learning_5_GUI_Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_6_Math_Class/Java_learning_6_Math_Class.iml" filepath="$PROJECT_DIR$/Java_learning_6_Math_Class/Java_learning_6_Math_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_7_Nombre_Aleatoire/Java_learning_7_Nombre_Aleatoire.iml" filepath="$PROJECT_DIR$/Java_learning_7_Nombre_Aleatoire/Java_learning_7_Nombre_Aleatoire.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_8_if_structure/Java_learning_8_if_structure.iml" filepath="$PROJECT_DIR$/Java_learning_8_if_structure/Java_learning_8_if_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_9_switch_structure/Java_learning_9_switch_structure.iml" filepath="$PROJECT_DIR$/Java_learning_9_switch_structure/Java_learning_9_switch_structure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Learning_Java_31_inheritance/Learning_Java_31_inheritance.iml" filepath="$PROJECT_DIR$/Learning_Java_31_inheritance/Learning_Java_31_inheritance.iml" />
     </modules>
   </component>
 </project>
