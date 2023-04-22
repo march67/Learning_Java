@@ -1,17 +1,34 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Entrée with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
 
-        // Press Maj+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        // polymorphism => capacité d'un objet à s'identifier à plus
+        // d'un type, exemple ici : voiture1 s'identifie en tant que Voiture
+        // mais aussi en tant que Vehicule
 
-            // Press Maj+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
+        Voiture voiture1 = new Voiture();
+        Bicyclette bicyclette1 = new Bicyclette();
+        Bateau bateau1 = new Bateau();
+
+        // Voiture[] course = {voiture1, bicyclette1, bateau1}
+        // ne fonctionne pas car on veut créer un tableau de données de type
+        // Voiture mais bicyclette1 et bateau1 ne sont pas des voitures
+        // ,en revanche le point commun entre ces trois instances c'est
+        // qu'ils ont tous pour super class Vehicule donc :
+        Vehicule[] course = {voiture1, bicyclette1, bateau1};
+        // ici le mécanisme du polymorphisme est utilisée
+
+        // intération de chaque élément du tableau course
+        // for( [type de donnée] [nom de substitution de l'élément] :
+        // [nom du tableau] ) {}
+        // mécanisme de polymorphisme, la méthode "demarrer()" est appelée
+        // mais son implémentation va être différente selon le contexte
+        for(Vehicule vehicule : course) {
+            vehicule.demarrer();
         }
+        // retourne
+        //La voiture démarre
+        //La bicyclette démarre
+        //Le bateau démarre
+
     }
 }

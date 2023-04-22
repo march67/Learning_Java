@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Apprentissage_debutant.iml" filepath="$PROJECT_DIR$/Java_Apprentissage_debutant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_01_Affichage/Java_learning_01_Affichage.iml" filepath="$PROJECT_DIR$/Java_learning_01_Affichage/Java_learning_01_Affichage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_02_Variable/Java_learning_02_Variable.iml" filepath="$PROJECT_DIR$/Java_learning_02_Variable/Java_learning_02_Variable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_03_Saisie_Scanner/Java_learning_03_Saisie_Scanner.iml" filepath="$PROJECT_DIR$/Java_learning_03_Saisie_Scanner/Java_learning_03_Saisie_Scanner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_04_Expressions/Java_learning_04_Expressions.iml" filepath="$PROJECT_DIR$/Java_learning_04_Expressions/Java_learning_04_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_01_affichage/Java_learning_01_affichage.iml" filepath="$PROJECT_DIR$/Java_learning_01_affichage/Java_learning_01_affichage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_02_variable/Java_learning_02_variable.iml" filepath="$PROJECT_DIR$/Java_learning_02_variable/Java_learning_02_variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_03_saisie_Scanner/Java_learning_03_saisie_Scanner.iml" filepath="$PROJECT_DIR$/Java_learning_03_saisie_Scanner/Java_learning_03_saisie_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_04_expressions/Java_learning_04_expressions.iml" filepath="$PROJECT_DIR$/Java_learning_04_expressions/Java_learning_04_expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_05_GUI_Intro/Java_learning_05_GUI_Intro.iml" filepath="$PROJECT_DIR$/Java_learning_05_GUI_Intro/Java_learning_05_GUI_Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_06_Math_Class/Java_learning_06_Math_Class.iml" filepath="$PROJECT_DIR$/Java_learning_06_Math_Class/Java_learning_06_Math_Class.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_07_Nombre_Aleatoire/Java_learning_07_Nombre_Aleatoire.iml" filepath="$PROJECT_DIR$/Java_learning_07_Nombre_Aleatoire/Java_learning_07_Nombre_Aleatoire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_07_nombre-aleatoire/Java_learning_07_nombre-aleatoire.iml" filepath="$PROJECT_DIR$/Java_learning_07_nombre-aleatoire/Java_learning_07_nombre-aleatoire.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_08_if_structure/Java_learning_08_if_structure.iml" filepath="$PROJECT_DIR$/Java_learning_08_if_structure/Java_learning_08_if_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_09_switch_structure/Java_learning_09_switch_structure.iml" filepath="$PROJECT_DIR$/Java_learning_09_switch_structure/Java_learning_09_switch_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_10_operateurs_logiques/Java_learning_10_operateurs_logiques.iml" filepath="$PROJECT_DIR$/Java_learning_10_operateurs_logiques/Java_learning_10_operateurs_logiques.iml" />
@@ -41,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_learning_36_encapsulation/Java_learning_36_encapsulation.iml" filepath="$PROJECT_DIR$/Java_learning_36_encapsulation/Java_learning_36_encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_37_copy-objects/Java_learning_37_copy-objects.iml" filepath="$PROJECT_DIR$/Java_learning_37_copy-objects/Java_learning_37_copy-objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_38_interface/Java_learning_38_interface.iml" filepath="$PROJECT_DIR$/Java_learning_38_interface/Java_learning_38_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_39_polymorphism/Java_learning_39_polymorphism.iml" filepath="$PROJECT_DIR$/Java_learning_39_polymorphism/Java_learning_39_polymorphism.iml" />
     </modules>
   </component>
 </project>
