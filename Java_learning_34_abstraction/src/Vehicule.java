@@ -8,4 +8,10 @@ public abstract class Vehicule {
     // augmentation de la sécurité
 
     abstract void demarrer(); // pas d'accolade sinon = corps et erreur d'abstraction
+
+    // une classe abstraite peut contenir des méthodes concrètes
+    // (avec implémentation)
+    public void existe() {
+        System.out.println("J'existe");
+    }
 }
