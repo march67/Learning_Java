@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_learning_40_dynamic-polymorphism/Java_learning_40_dynamic-polymorphism.iml" filepath="$PROJECT_DIR$/Java_learning_40_dynamic-polymorphism/Java_learning_40_dynamic-polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_40_exception-handling/Java_learning_40_exception-handling.iml" filepath="$PROJECT_DIR$/Java_learning_40_exception-handling/Java_learning_40_exception-handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_41_File-class/Java_learning_41_File-class.iml" filepath="$PROJECT_DIR$/Java_learning_41_File-class/Java_learning_41_File-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_42_FileWriter/Java_learning_42_FileWriter.iml" filepath="$PROJECT_DIR$/Java_learning_42_FileWriter/Java_learning_42_FileWriter.iml" />
     </modules>
   </component>
 </project>
