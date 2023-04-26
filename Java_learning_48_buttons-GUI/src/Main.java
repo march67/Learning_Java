@@ -5,7 +5,6 @@ public class Main {
 
         // JButtons => un boutton qui réalise une action quand on clique
         // dessus
-
         MyFrame frame = new MyFrame();
 
     }
