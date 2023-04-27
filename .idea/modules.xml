@@ -54,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_learning_48_buttons-GUI/Java_learning_48_buttons-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_48_buttons-GUI/Java_learning_48_buttons-GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_49_borderLayout/Java_learning_49_borderLayout.iml" filepath="$PROJECT_DIR$/Java_learning_49_borderLayout/Java_learning_49_borderLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_50_flowLayout/Java_learning_50_flowLayout.iml" filepath="$PROJECT_DIR$/Java_learning_50_flowLayout/Java_learning_50_flowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_51_gridLayout/Java_learning_51_gridLayout.iml" filepath="$PROJECT_DIR$/Java_learning_51_gridLayout/Java_learning_51_gridLayout.iml" />
     </modules>
   </component>
 </project>
