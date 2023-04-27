@@ -52,10 +52,10 @@
       <module fileurl="file://$PROJECT_DIR$/Java_learning_46_labels-GUI/Java_learning_46_labels-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_46_labels-GUI/Java_learning_46_labels-GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_47_pannels-GUI/Java_learning_47_pannels-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_47_pannels-GUI/Java_learning_47_pannels-GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_learning_48_buttons-GUI/Java_learning_48_buttons-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_48_buttons-GUI/Java_learning_48_buttons-GUI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_49_borderLayout/Java_learning_49_borderLayout.iml" filepath="$PROJECT_DIR$/Java_learning_49_borderLayout/Java_learning_49_borderLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_50_flowLayout/Java_learning_50_flowLayout.iml" filepath="$PROJECT_DIR$/Java_learning_50_flowLayout/Java_learning_50_flowLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_51_gridLayout/Java_learning_51_gridLayout.iml" filepath="$PROJECT_DIR$/Java_learning_51_gridLayout/Java_learning_51_gridLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_learning_52_layeredPane/Java_learning_52_layeredPane.iml" filepath="$PROJECT_DIR$/Java_learning_52_layeredPane/Java_learning_52_layeredPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_49_borderLayout-GUI/Java_learning_49_borderLayout-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_49_borderLayout-GUI/Java_learning_49_borderLayout-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_50_flowLayout-GUI/Java_learning_50_flowLayout-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_50_flowLayout-GUI/Java_learning_50_flowLayout-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_51_gridLayout-GUI/Java_learning_51_gridLayout-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_51_gridLayout-GUI/Java_learning_51_gridLayout-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_learning_52_layeredPane-GUI/Java_learning_52_layeredPane-GUI.iml" filepath="$PROJECT_DIR$/Java_learning_52_layeredPane-GUI/Java_learning_52_layeredPane-GUI.iml" />
     </modules>
   </component>
 </project>
